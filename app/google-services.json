@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554635539576",
+    "project_id": "tollplazaqrpayment",
+    "storage_bucket": "tollplazaqrpayment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554635539576:android:9b18c46d9b94778a0ea98d",
+        "android_client_info": {
+          "package_name": "com.example.tollplazaqrpayment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnI6qTTGSKFYy5epVtgV_IZSd5oq0d9G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
