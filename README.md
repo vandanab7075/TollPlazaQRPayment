@@ -50,7 +50,8 @@ The QR-based toll system streamlines payments, reduces delays, and enhances traf
 ## Screenshots
 
 ### Slide 1: TollGate Payment App Development
-![Slide 1](link-to-image1)
+![Slide 1]([Screenshot 2024-11-12 131021](https://github.com/user-attachments/assets/78931913-4301-453b-913a-6b54b38ece26)
+)
 
 ### Slide 2: Introduction
 ![Slide 2](link-to-image2)
